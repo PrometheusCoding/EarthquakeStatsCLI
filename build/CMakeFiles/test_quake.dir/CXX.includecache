@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/EarthquakeStatsCLI/quake.cpp
+stdexcept
+-
+quake.hpp
+/workspaces/EarthquakeStatsCLI/quake.hpp
+
+/workspaces/EarthquakeStatsCLI/quake.hpp
+string
+-
+iostream
+-
+

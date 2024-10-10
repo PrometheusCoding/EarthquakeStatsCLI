@@ -1,0 +1,5 @@
+/workspaces/EarthquakeStatsCLI/build/CMakeFiles/rebuild_cache.dir
+/workspaces/EarthquakeStatsCLI/build/CMakeFiles/edit_cache.dir
+/workspaces/EarthquakeStatsCLI/build/CMakeFiles/test_quake.dir
+/workspaces/EarthquakeStatsCLI/build/CMakeFiles/test_dataset.dir
+/workspaces/EarthquakeStatsCLI/build/CMakeFiles/quaketool.dir
